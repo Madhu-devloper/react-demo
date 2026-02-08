@@ -95,6 +95,7 @@ background-color: transparent;
   justify-content: space-between;
   border-top: 1.5px solid #e1dede;
   padding-top: 15px;
+ align-items: end;
 }
 
 .bottom button{
@@ -105,6 +106,7 @@ background-color: transparent;
   border-radius: 5px;
   font-weight: 600;
   float: right;
+  
 }
 .bottom h3{
   font-size: 12px;  
